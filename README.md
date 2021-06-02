@@ -84,14 +84,21 @@ Sprint 3 admin section
 Show Airlines, Source Destination and Flights 
 
 
-## Images
-![Alt text](screen_1.png?raw=true "Title")
-## Second Menu
-![Alt text](screen_2.png?raw=true "Title")
-## Deleting Option
-![Alt text](screen_3.png?raw=true "Title")
-## Searching Option
-![Alt text](screen_4.png?raw=true "Title")
+## Index.html
+![Alt text](index.png?raw=true "Title")
+## List of all the flights
+![Alt text](list_all_flights.png?raw=true "Title")
+## Details payment
+![Alt text](confirmation_details_payment.png?raw=true "Title")
+## Confirmed Fight
+![Alt text](confirmed_flight.png?raw=true "Title")
+## Admin Flights
+![Alt text](admin_flights.png?raw=true "Title")
+## Admin SRC Destination
+![Alt text](admin_src_destination.png?raw=true "Title")
+## Airlines
+![Alt text](airlines.png?raw=true "Title")
+
 
 Please make sure to update tests as appropriate.
 ## Note 
